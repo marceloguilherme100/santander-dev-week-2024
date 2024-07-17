@@ -1,4 +1,4 @@
-# 🏛 API Bancária - Bootcamp Santander 2023
+# 🏛 API Bancária - Bootcamp Santander 2024
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -65,22 +65,5 @@ Card <-- CardType
 
 ```
 
-## 💻 Como Rodar?
-
-1. Clone o repositório
-
-```bash
-git clone https://github.com/Arawns1/projeto-final-santander-dev-week-2023.git
-```
-
-2. Abra o projeto em sua IDE favorita e execute o programa
-
-3. A documentação pode ser encontrada em:
-
-```
-http://localhost:8080/swagger-ui/index.html#/
-```
-
-Por padrão, a aplicação é iniciada em `http://localhost:8080/`
 
 
