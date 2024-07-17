@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SantanderDevWeek2023ApplicationTests {
+class SantanderDevWeek2024ApplicationTests {
 
 	@Test
 	@DisplayName("Teste inicial")
